@@ -1,9 +1,7 @@
 EARTHQUAKE MAP
 
-This code is written as a part of the programming assignment of Object Oriented Programming in Java course offered by UC San Diego through 
-Coursera.
-This is a Java pApplet application which shows the live earthquake data with the help of markers. This also shows whether a city will get 
-the effects of nearby earthquakes or not.
+This code is written as a part of the programming assignment of Object Oriented Programming in Java course offered by UC San Diego through Coursera.
+This is a Java pApplet application which shows the live earthquake data with the help of markers. This also shows whether a city will get the effects of nearby earthquakes or not.
 
 
 TROUBLE SHOOTING
